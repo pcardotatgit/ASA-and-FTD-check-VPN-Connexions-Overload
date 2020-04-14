@@ -1,0 +1,4 @@
+device_type,name,IP_Address,User,password,enable_password,Select
+cisco_asa,ASA1,192.168.100.1,patrick,cisco,cisco,1
+cisco_ftd,FTD1010,192.168.1.1,admin,Cisco12*,Cisco12*,1
+cisco_asa,ASA2,192.168.100.111,admin,cisco123,cisco,0

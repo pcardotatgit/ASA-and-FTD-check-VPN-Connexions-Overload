@@ -1,0 +1,12 @@
+ show version
+------------------[ FP-1010-PAT ]-------------------
+Model                     : Cisco Firepower 1010 Threat Defense (78) Version 6.5.0 (Build 115)
+UUID                      : 961dba5e-56eb-11ea-acf7-a9dc60751235
+Rules update version      : 2020-02-19-001-vrt
+VDB version               : 332
+----------------------------------------------------
+
+ show vpn-sessiondb
+
+ No sessions to display.
+

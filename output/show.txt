@@ -1,0 +1,6 @@
+**==>
+  hostname = ciscoasa
+**vpn-sessiondb 
+
+ No sessions to display.
+

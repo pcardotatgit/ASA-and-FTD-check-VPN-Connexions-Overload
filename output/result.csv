@@ -1,0 +1,2 @@
+time,name,Active,Cumulative,Peak_Concur,Inactive,Total_Active_and_Inactive,Total_Cumulative,Device_Total_VPN_Capacity,Device_Load,AnyConnect-Parent_actives,AnyConnect-Parent_Cumulative,AnyConnect-Parent_Peak_Concurrent,SSL-Tunnel_actives,SSL-Tunnel_Cumulative,SSL-Tunnel_Peak_Concurrent,DTLS-Tunnel_Actives,DTLS-Tunnel_Cumulative,DTLS-Tunnel_Peak_Concurrent
+2020-04-14T12:31:37.272095,ciscoasa,22,2439,37,2,24,2439,250,10,24,2439,37,22,5445,34,3,109,3,
